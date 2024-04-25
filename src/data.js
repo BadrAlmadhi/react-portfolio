@@ -14,17 +14,17 @@ export const projects = [
     title: "MERN Stack",
     subtitle: "In Progress ...",
     description:
-      " In this project I have a RESTful API application and now I am re-factoring code to be GraphQL API",
+      " In this project I have a RESTful API application and now I am re-factoring code to be GraphQL API Click to see progress",
     // add image
-    // add link
+    link: "https://github.com/BadrAlmadhi/book-serach-MERN-stack",
   },
   {
     title: "MVC Application Tech Blog",
     subtitle: "In Progress ...",
     description:
-      " This Application is using Handlebars.js to build RESTful API application for a tech blog ",
+      " This Application is using Handlebars.js to build RESTful API application for a tech blog Click to see progress",
       // add image
-      // add link
+      link: "https://github.com/BadrAlmadhi/Model-View-Controller-MVC-Tech-Blog",
   },
 ];
 
