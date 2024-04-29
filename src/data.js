@@ -1,6 +1,6 @@
 import node from '../src/images/node.png';
 import weather from '../src/images/weather.png'
-
+import googleSearchBook from './images/googleSearchBook.png';
 export const projects = [
   {
     title: "Weather Dashboard",
@@ -15,7 +15,7 @@ export const projects = [
     subtitle: "In Progress ...",
     description:
       " In this project I have a RESTful API application and now I am re-factoring code to be GraphQL API Click to see progress",
-    // add image
+    image: googleSearchBook,
     link: "https://github.com/BadrAlmadhi/book-serach-MERN-stack",
   },
   {
