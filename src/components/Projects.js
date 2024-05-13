@@ -12,15 +12,16 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Over the past few years, I have decided to make a career change and
-            break into the software development world. Initially, I dove into
-            self-teaching, then I enrolled in the Georgia Tech Coding Bootcamp.
-            Through intense study and hands-on experience, I have built
-            foundational skills and completed diverse projects that not only
-            demonstrate my experience but also reflect my passion for innovation
-            and problem-solving. Each project serves as a testament to my growth
-            and commitment to mastering the skills of a software developer in an
-            impactful way.
+            Throughout my journey of transitioning into the software development
+            world, I have pursued various paths in my learning process,
+            including self-teaching and enrolling in the Georgia Tech Coding
+            Bootcamp. This learning experience has equipped me with foundational
+            skills and provided an opportunity to work on diverse projects that
+            reflect my passion for software development and problem-solving.
+            Each project I have built has helped me understand web applications
+            in a meaningful way. Below are some highlights of the projects I
+            have completed, demonstrating both technical abilities and creating
+            impactful solutions.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
