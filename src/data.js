@@ -31,13 +31,21 @@ export const projects = [
 ];
 
 export const skills = [
+  "Front-end Development",
+  "Back-end Development",
   "JavaScript",
   "React",
+  "TypeScript",
   "Node.js",
   "SQL",
   "NoSQL",
   "Express.js",
   "GraphQl",
+  "PHP",
+  "XAMPP",
+  "Yii2",
+  "MERN Stack",
+  "MVC"
 ];
 
 export const testimonials = [
