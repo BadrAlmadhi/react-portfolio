@@ -11,14 +11,14 @@ export default function About() {
             <br className="hidden lg:inline-block" /> Inspired software engineer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Emerging Software Engineer with 2 years of hands-on experience in
-            developing web applications using languages such as JavaScript,
-            React.js, Express.js, Node.js, and GraphQL. Demonstrates ability in
-            solving complex problems and enhancing user applications through my
+            I am an emerging Software Engineer with 2+ years of hands-on
+            experience in developing web applications using JavaScript,
+            React.js, Express.js, Node.js, and GraphQL. I have a proven ability
+            to solve complex problems and enhance user applications through my
             lifelong dedication to learning. Effective at combining creativity
             and problem-solving to develop user-friendly applications.
-            Passionate about leveraging technology to make a positive impact and
-            eager to contribute to creative projects.
+            Passionate about leveraging technology to make a positive impact,
+            and eager to contribute to creative projects.
           </p>
           <div className="flex justify-center">
             <a
