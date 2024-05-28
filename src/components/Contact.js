@@ -34,12 +34,10 @@ export default function Contact() {
           name="contact"
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
-          </h2>
-          <p className="leading-relaxed mb-5">
-            Please feel free to reach me out 
-          </p>
+          <h1 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+            Thank you so much for taking the rime to review my portfolio. I really appreciate it!
+          </h1>
+          
         </div>
       </div>
     </section>
