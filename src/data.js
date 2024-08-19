@@ -5,6 +5,13 @@ import MVC from "./images/MVC.png";
 
 export const projects = [
   {
+    title: "Could Hosting Company",
+    subtitle: "Built with JavaScript, HTML/CSC",
+    description: "A project to showcase my experience using HTML components and CSS styling to build a clean, responsive website that works in all devices",
+    image: weather,
+    link: "https://badralmadhi.github.io/Moshify/",
+  },
+  {
     title: "Weather Dashboard",
     subtitle: "Built with JavaScript, HTML/CSS",
     description:
@@ -45,7 +52,7 @@ export const skills = [
   "XAMPP",
   "Yii2",
   "MERN Stack",
-  "MVC"
+  "MVC",
 ];
 
 export const testimonials = [
